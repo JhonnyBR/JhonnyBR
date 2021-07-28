@@ -19,7 +19,7 @@ My name is Jonny, this is my github profile, i am a person who is starting in th
 <h1>Statics</h1>
 ![JhonnyBR GitHub stats]
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JhonnyBR&show_icons=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JhonnyBR)](https://github.com/JhonnyBR/github-readme-stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JhonnyBR)](https://github.com/JhonnyBR/github-readme-stats)" />
 
 <h3>Social media</h3>
 
