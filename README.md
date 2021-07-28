@@ -22,7 +22,7 @@ My name is Jonny, this is my github profile, i am a person who is starting in th
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <h3>Social media</h3>
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][3].
 
 <!-- Icons -->
 
