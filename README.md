@@ -30,5 +30,5 @@ You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Links to your social media accounts -->
 
-[1]: www.linkedin.com/in/jonny-b
+[1]: https://www.linkedin.com/in/jonny-b
 
