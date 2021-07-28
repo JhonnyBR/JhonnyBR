@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 This is my github profile, i am a person who is starting in the development world and still has a lot to learn
 <h1>Social media</h1>
 <i class="fab fa-linkedin-in"></i>
