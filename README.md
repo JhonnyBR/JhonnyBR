@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 My name is Jonny, this is my github profile, i am a person who is starting in the development world and still has a lot to learn
 <h1>Statics</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonnyBR&show_icons=true&theme=radical)
+![Anurag's GitHub stats]
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JhonnyBR&show_icons=true&theme=radical" />
 <h2>Technologies</h2>
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <h3>Social media</h3>
