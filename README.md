@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 My name is Jonny, this is my github profile, i am a person who is starting in the development world and still has a lot to learn
 <h1>Statics</h1>
-![JhonnyBR GitHub stats]
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JhonnyBR&show_icons=true&theme=radical" />
+<img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/JhonnyBR?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JhonnyBR&count_private=true" />
+(https://enigmatic-harbor-42642.herokuapp.com/?name=JhonnyBR)](https://enigmatic-harbor-42642.herokuapp.com/?name=JhonnyBR)
 
 <h3>Social media</h3>
 
